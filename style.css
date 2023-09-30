@@ -62,3 +62,22 @@ body, h1, h2, p {
   gls {
       font-family: 'Courier New', Courier, monospace;
   }
+ /* .wikibox {
+    background-color: #0073e6; 
+    color: #fff; 
+    padding: 20px;
+    margin: 20px auto; 
+    max-width: 800px; 
+    border: 1px solid #ddd; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+ /* } */
+  .wikibox {
+    background-color: #fff; /* White background */
+    border: 1px solid #ddd; /* Add a light gray border */
+    padding: 20px;
+    margin: 40px; /* Add margin to create space around the wikibox */
+    margin-bottom: 0px;
+    margin: auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    max-width: 400px;
+  }
